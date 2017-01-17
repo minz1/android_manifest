@@ -139,4 +139,6 @@
   <!-- vendor -->
   <project path="vendor/du" name="android_vendor_du" remote="du" revision="n7x" />
 
+  <include name="minz.xml" />
+
 </manifest>

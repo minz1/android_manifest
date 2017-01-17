@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="minz1/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="n" />
+  <project name="minz1/android_device_xiaomi_kenzo" path="device/xiaomi/kenzo" remote="github" revision="du-n" />
+  <project name="minz1/android_device_xiaomi_msm8956-common" path="device/xiaomi/msm8956-common" remote="github" revision="du-n" />
+  <project name="HeritageROM/android_kernel_xiaomi_msm8956" path="kernel/xiaomi/msm8956" remote="github" revision="goodix/cm-14.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+</manifest>
