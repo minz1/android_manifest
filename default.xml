@@ -551,5 +551,6 @@
 
   <!-- Add all tracked DU/AOSP repos -->
   <include name="n7x_default.xml" />
+  <include name="minz.xml" />
 
 </manifest>
